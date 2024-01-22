@@ -1,4 +1,4 @@
-import { Footer, Navbar } from "../components";
+import { Footer, TopNavbar } from "../components";
 import {
   About,
   Explore,
@@ -12,7 +12,7 @@ import {
 
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">
-    <Navbar />
+    <TopNavbar />
     <Hero />
     <About />
     <Explore />
