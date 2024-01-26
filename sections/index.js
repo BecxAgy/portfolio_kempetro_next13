@@ -1,11 +1,13 @@
-import Hero from './Hero';
-import About from './About';
-import Explore from './Explore';
-import GetStarted from './GetStarted';
-import WhatsNew from './WhatsNew';
-import World from './World';
-import Insights from './Insights';
-import Feedback from './Feedback';
+import Hero from "./Hero";
+import About from "./About";
+import Explore from "./Explore";
+import GetStarted from "./GetStarted";
+import WhatsNew from "./WhatsNew";
+import World from "./World";
+import Insights from "./Insights";
+import Feedback from "./Feedback";
+import ExploreAll from "./ExploreAll";
+import Tour from "./Tour";
 
 export {
   Hero,
@@ -16,4 +18,6 @@ export {
   World,
   Insights,
   Feedback,
+  ExploreAll,
+  Tour,
 };

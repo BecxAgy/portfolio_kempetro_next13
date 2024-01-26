@@ -21,7 +21,7 @@ const ParticlesContainer = () => {
             value: "",
           },
         },
-        fpsLimit: 100,
+        fpsLimit: 120,
         interactivity: {
           events: {
             onClick: {
