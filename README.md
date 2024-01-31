@@ -1,4 +1,4 @@
-# Nome do projeto
+# Portfólio de Soluções 
 
 <img src="imagem.png" alt="Exemplo imagem">
 
@@ -34,9 +34,9 @@ Windows:
 npm install
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Rodando o Projeto
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para rodar, siga estas etapas:
 
 ```
 npm run dev
