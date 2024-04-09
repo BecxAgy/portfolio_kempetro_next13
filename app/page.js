@@ -8,7 +8,6 @@ import {
   Hero,
   Insights,
   WhatsNew,
-  Tour,
 } from "../sections";
 
 const Page = () => (
@@ -27,7 +26,6 @@ const Page = () => (
     </div>
 
     <div className="relative">
-      <Tour />/
       <div className="gradient-04 z-0" />
       <WhatsNew />
       <Feedback />

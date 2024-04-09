@@ -40,7 +40,7 @@ const ExploreCard = ({
           initial={{ opacity: 0 }} // Opacidade inicial
           animate={{ opacity: 1 }} // Opacidade final
           transition={transition}
-          className={`absolute bottom-0 p-8 flex justify-start w-full flex-col bg-[rgba(0,0,0,0.5)] rounded-b-[24px] `}
+          className={`absolute bottom-0 p-8 flex justify-start w-full flex-col bg-[rgba(0,0,0,0.5)] rounded-b-[24px] xl:h-[450px] xl:overflow-hidden  h-[200px] overflow-y-scroll `}
         >
           <div className="flex flex-row gap-5 max-h-[600px] sm:max-h-[200px] ">
             <div

@@ -7,7 +7,6 @@ import World from "./World";
 import Insights from "./Insights";
 import Feedback from "./Feedback";
 import ExploreAll from "./ExploreAll";
-import Tour from "./Tour";
 
 export {
   Hero,
@@ -19,5 +18,4 @@ export {
   Insights,
   Feedback,
   ExploreAll,
-  Tour,
 };

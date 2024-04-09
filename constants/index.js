@@ -2,28 +2,28 @@ export const exploreWorlds = [
   {
     description:
       "Este recurso tem por objetivo relacionar modelagem 3D e cronograma de montagem, presentando todo o progresso de construção planejado ao longo de um determinado período.",
-    id: "project-1",
+    id: 0,
     imgUrl: "/video.png",
     title: "Vídeo 4D",
   },
   {
     description:
       "É gerada uma simulação 3D do plano de “Rigging” elaborado, visando otimizar os recursos aplicados e sanar possíveis falhas em todas as fases da operação.O mesmo pode ser entregue como um produto completo, com toda a documentação técnica, ou como auditoria de um plano executado por terceiro",
-    id: "project-2",
-    imgUrl: "/simulacao.png",
+    id: 1,
+    imgUrl: "/simulacao.jpeg",
     title: "Simulações",
   },
   {
     description:
       "É uma ferramenta de simples utilização e permite que o usuário navegue 100% online por todo o projeto. Há diversas variações desse mesmo produto, como visualização da mesma área de acordo com a data selecionada, acesso de documentos (desenho de fornecedor etc.), em pontos específicos, identificação de interferências, acompanhamento de obra, navegação entre plantas industriais distintas, treinamentos de operação de equipamentos, rota de fuga, entre outros.",
-    id: "project-3",
+    id: 2,
     imgUrl: "/tour.png",
     title: "Tour Virtual",
   },
   {
     description:
       "A porta de acesso da solução é um dashboard com interface gráfica versátil e amigável (acessada por desktop, Ipad e celular) que visa centralizar as principais informações para otimizar o acompanhamento do projeto.",
-    id: "project-4",
+    id: 3,
     imgUrl: "/bim.png",
     title: "BIM 5D ",
   },
@@ -31,7 +31,7 @@ export const exploreWorlds = [
   {
     description:
       "A aplicação é acessada via Ipad e celular, através de QRcode. No exemplo apresentado foi tratada para ser utilizada em isométricos. Independente da revisão escaneada o link sempre irá mostrar a última revisão e 3D do TAG, garantindo que os usuários tenham garantia de visualizar a última revisão.",
-    id: "project-5",
+    id: 4,
     imgUrl: "/mv.png",
     title: "Model Viewer ",
   },
@@ -78,22 +78,25 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: "/planet-06.png",
+    url: "/flume",
+    imgUrl: "/dashflume.png",
     title: "Flume & Dashboard Flume",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "O FLUME é uma aplicação online de controle de suprimentos desde a etapa do pedido de engenharia até a chegada do item ao cliente",
   },
   {
-    imgUrl: "/planet-07.png",
+    url: "/request",
+    imgUrl: "/request.png",
     title: "3D Request",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "Aplicação online que promove uma interface prática e dinâmica entre os modeladores e administradores 3D",
   },
   {
-    imgUrl: "/planet-08.png",
+    url: "nuvem-pontos",
+    imgUrl: "/nuvem.png",
     title: "Portal de Nuvem de Pontos",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+      "Possibilita ao cliente acesso online a centenas de nuvens de pontos, com fluidez e sem nenhum comprometimento de armazenamento local.",
   },
 ];
 

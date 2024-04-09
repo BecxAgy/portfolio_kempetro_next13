@@ -7,6 +7,7 @@ import NewFeatures from "./NewFeatures";
 import InsightCard from "./InsightCard";
 import Footer from "./Footer";
 import ParticlesContainer from "./ParticlesContainer";
+import Modal from "./Modal";
 
 export {
   TopNavbar,
@@ -18,4 +19,5 @@ export {
   InsightCard,
   Footer,
   ParticlesContainer,
+  Modal,
 };
