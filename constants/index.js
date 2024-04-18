@@ -50,14 +50,14 @@ export const exploreProjects = [
   },
   {
     id: "project-3",
-    imgUrl: "/tour.png",
+    imgUrl: "/NP_05.jpg",
     title: "Portal de Nuvem de Pontos",
   },
 ];
 
 export const requestDescriptions = [
   "Aplicação online com uma interface prática e dinâmica",
-  "Enter the world by reading basmalah to be safe",
+  "Promove o alinhamento entre modeladores e administradores 3D",
   "A interface é customizada com um mapa que facilita a localização dos acessos",
 ];
 
@@ -93,7 +93,7 @@ export const insights = [
   },
   {
     url: "nuvem-pontos",
-    imgUrl: "/nuvem.png",
+    imgUrl: "/NP_03.jpg",
     title: "Portal de Nuvem de Pontos",
     subtitle:
       "Possibilita ao cliente acesso online a centenas de nuvens de pontos, com fluidez e sem nenhum comprometimento de armazenamento local.",
