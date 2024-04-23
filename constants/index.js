@@ -102,19 +102,13 @@ export const insights = [
 
 export const socials = [
   {
-    name: "twitter",
-    url: "/twitter.svg",
-  },
-  {
+    link: "https://www.linkedin.com/company/kempetro-engenharia/mycompany/",
     name: "linkedin",
     url: "/linkedin.svg",
   },
   {
+    link: "https://www.instagram.com/kempetroengenharia?igsh=Y3ViOGQybW95N3Ux",
     name: "instagram",
     url: "/instagram.svg",
-  },
-  {
-    name: "facebook",
-    url: "/facebook.svg",
   },
 ];

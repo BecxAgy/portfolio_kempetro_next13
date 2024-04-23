@@ -1,7 +1,6 @@
 import { Footer, TopNavbar } from "../components";
 import {
   About,
-  Explore,
   ExploreAll,
   Feedback,
   GetStarted,
