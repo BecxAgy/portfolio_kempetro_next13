@@ -7,7 +7,7 @@ import { requestDescriptions } from "../constants";
 import { StartSteps, TitleText, TypingText } from "../components";
 import { staggerContainer, fadeIn, planetVariants } from "../utils/motion";
 
-const GetStarted = () => (
+const Request3d = () => (
   <section id="request" className={`${styles.paddings} relative z-10`}>
     <motion.div
       variants={staggerContainer}
@@ -46,4 +46,4 @@ const GetStarted = () => (
   </section>
 );
 
-export default GetStarted;
+export default Request3d;

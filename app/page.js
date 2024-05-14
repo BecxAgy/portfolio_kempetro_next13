@@ -2,12 +2,13 @@ import { Footer, TopNavbar } from "../components";
 import {
   About,
   ExploreAll,
-  Feedback,
   GetStarted,
   Hero,
   Insights,
+  Request3d,
   WhatsNew,
 } from "../sections";
+import CloudPoint from "../sections/CloudPoint";
 
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">
@@ -21,13 +22,13 @@ const Page = () => (
     <div className="relative">
       <Insights />
       <div className="gradient-04 z-0" />
-      <GetStarted />
+      <Request3d />
     </div>
 
     <div className="relative">
       <div className="gradient-04 z-0" />
       <WhatsNew />
-      <Feedback />
+      <CloudPoint />
     </div>
     <Footer />
   </div>

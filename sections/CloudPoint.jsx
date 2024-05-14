@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import styles from "../styles";
 import { fadeIn, staggerContainer, zoomIn } from "../utils/motion";
 
-const Feedback = () => (
+const CloudPoint = () => (
   <section id="nuvem-pontos" className={`${styles.paddings}`}>
     <motion.div
       variants={staggerContainer}
@@ -47,4 +47,4 @@ const Feedback = () => (
   </section>
 );
 
-export default Feedback;
+export default CloudPoint;

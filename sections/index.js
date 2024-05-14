@@ -1,20 +1,20 @@
 import Hero from "./Hero";
 import About from "./About";
 import Explore from "./Explore";
-import GetStarted from "./GetStarted";
+import Request3d from "./Request3d";
 import WhatsNew from "./WhatsNew";
 
 import Insights from "./Insights";
-import Feedback from "./Feedback";
+import CloudPoint from "./CloudPoint";
 import ExploreAll from "./ExploreAll";
 
 export {
   Hero,
   About,
   Explore,
-  GetStarted,
+  Request3d,
   WhatsNew,
   Insights,
-  Feedback,
+  CloudPoint,
   ExploreAll,
 };
